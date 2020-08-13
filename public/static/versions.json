@@ -1,0 +1,75 @@
+[
+  {
+    "name": "1.16.1",
+    "to": "/1.16.1",
+    "sub_versions": [
+      {
+        "date": "2020-08-09",
+        "name": "1.16.1 多模组生存整合包",
+        "link": "https://cdn.rhyland.top/minecraft/1.16.1-Fabric%E6%A8%A1%E7%BB%84%E7%94%9F%E5%AD%98%E6%95%B4%E5%90%88.zip",
+        "size": "453.14 MB",
+        "description": "全新模组生存包发布"
+      },
+      {
+        "date": "2020-06-25",
+        "name": "1.16.1 原版生存整合包",
+        "link": "https://cdn.rhyland.top/minecraft/1.16.1-Fabric.zip",
+        "size": "346.60 MB",
+        "description": "1.16.1 v1"
+      }
+    ]
+  },
+  {
+    "name": "1.15.2",
+    "to": "/1.15.2",
+    "sub_versions": [
+      {
+        "date": "2020-02-15",
+        "name": "1.15.2 v1 Fabric 整合",
+        "link": "https://cdn.rhyland.top/minecraft/1.15.2-Fabric.rar",
+        "size": "233.16 MB",
+        "description": "1.15.2 Fabric 整合"
+      }
+    ]
+  },
+  {
+    "name": "1.15.1",
+    "to": "/1.15.1",
+    "sub_versions": [
+      {
+        "date": "2020-01-16",
+        "name": "1.15.1 v1 Fabric 整合",
+        "link": "https://cdn.rhyland.top/minecraft/1.15.1-Fabric.rar",
+        "size": "238.77 MB",
+        "description": "1.15.1 Fabric 整合"
+      }
+    ]
+  },
+  {
+    "name": "1.14.4",
+    "to": "/1.14.4",
+    "sub_versions": [
+      {
+        "date": "2019-11-01",
+        "name": "1.14.4 v3 Forge 整合",
+        "link": "https://cdn.rhyland.top/minecraft/1.14.4-forge整合.rar",
+        "size": "341.46 MB",
+        "description": "加入了一些实用性的mod"
+      },
+      {
+        "date": "2019-10-25",
+        "name": "1.14.4 v2",
+        "link": "https://cdn.rhyland.top/minecraft/1.14.4_v2_20191025.rar",
+        "size": "223.34 MB",
+        "description": "1.14.4 v2"
+      },
+      {
+        "date": "2019-10-16",
+        "name": "1.14.4 v1",
+        "link": "https://cdn.rhyland.top/minecraft/1.14.4_v1_20191016.rar",
+        "size": "220.63 MB",
+        "description": "1.14.4 v1"
+      }
+    ]
+  }
+]
