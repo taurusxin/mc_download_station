@@ -74,7 +74,12 @@ export default {
     }).finally(function () {
       that.activeName = that.$route.path
     })
+  },
+  watch:{
+  $route(to,from){
+    this.activeName = to.path
   }
+}
 }
 </script>
 
